@@ -1,16 +1,19 @@
-## Hi there 👋
+Привет! 👋 Я Егор
 
-<!--
-**artymegor-collab/artymegor-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Python-разработчик, интересуюсь Backend.
 
-Here are some ideas to get you started:
+🔧 Мои Hard Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Python, ООП,
+- Telegram, pyrogram
+- PyGame
+- Flask,
+- SQLite
+
+## 📌 Мои проекты:
+
+- [Flask API для посто](http://127.0.0.1:5000/)
+- [Telegram бот с мини-играми](@vkusnaeda_bot)
+- [Модель предсказания цен](https://github.com/user/prices)
+
+📫 Контакты: [Telegram](@Egor282)
